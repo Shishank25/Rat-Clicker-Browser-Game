@@ -18,7 +18,7 @@ curs.style.left = `${cursX}px`;
 curs.style.top = `${cursY}px`;
 
 // Speed of the shape's movement
-const speed = 5;
+const speed = 10;
 
 // Center and radius of the circular safe zone
 const screenCenterX = window.innerWidth / 2;
