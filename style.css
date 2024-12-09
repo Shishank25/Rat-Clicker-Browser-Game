@@ -1,0 +1,30 @@
+html{
+  background-color: rgb(255, 255, 93);
+}
+#shape{
+  display: flex;
+  position: absolute;
+  background-color: rgba(15, 78, 78, 0);
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+}
+#curs{
+  position: absolute;
+}
+button{
+  border-radius: 50%;
+  background-color: rgba(15, 78, 78, 0);
+  outline: none;
+  box-shadow: none;
+  border: none;
+}
+#score{
+  font-size: large;
+  font-family: cursive;
+  font-weight: bolder;
+  left: 50px;
+  top: 50px;
+}
